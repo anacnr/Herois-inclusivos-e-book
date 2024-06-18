@@ -5,6 +5,7 @@ Neste e-book eu utilizei duas ferramentas de Inteligência artificial para gerar
 Eu queria mostrar um pouco sobre a importância da tecnologia assistiva nos dias atuais para desenvolvedores e usuários comuns.
 Este foi um projeto para ser entregue ao Bootcamp que estou fazendo.
 
-### Download
 
-Não é necessário nenhum programa para ler o e-book.
+### Execução do e-book
+
+A execução da pequena aplicação será aberta no navegador ao clicar no arquivo principal.
